@@ -6,13 +6,6 @@ const Header = () => {
             <h4 className="logo">
                 SmartCow
             </h4>
-            <nav>
-                <ul>
-                    <li>Home</li>
-                    <li>Contacts</li>
-                    
-                </ul>
-            </nav>
             
         </div>
     )
